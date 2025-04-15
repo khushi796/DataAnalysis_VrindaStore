@@ -1,2 +1,2 @@
-# ms_excel
+# VrindaStore_DataAnalysis
 In this project, I created an Annual Sales Report Dashboard for Vrinda Store 2022 using Microsoft Excel. I used pivot tables, slicers, and charts to visualize key insights from the sales data. First, I cleaned and organized the raw dataset to make it ready for analysis. Then, I built pivot tables to summarize data across sales channels, product categories, customer age groups, and regions. Finally, I used pivot charts and slicers to create an interactive dashboard that highlights sales trends, customer demographics, top-performing states, and order statuses, making the data easy to understand and analyze.
